@@ -2,3 +2,4 @@ This is just a text file.
 Also include csv files.
 Also include xlsx files.
 Also include pdf files.
+Also include Mp3. files.
